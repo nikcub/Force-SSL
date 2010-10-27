@@ -1,15 +1,9 @@
-Forces SSL for Twitter and Facebook
+This project has been renamed as 'Fidelio'.
 
-I will add an options page later today, or whenever, so you can force other sites to also use SSL
+Find it here:
 
-If you install the plugin now, it will auto-update with whatever I add to it.
+http://github.com/nikcub/fidelio
 
-Click here to install for Chrome:
+New features etc.
 
-http://nikcub.appspot.com/projects/forcessl.crx
 
-Source code here:
-
-http://github.com/nikcub/forcessl
-
-I am not very consistant with apostrophe's 
